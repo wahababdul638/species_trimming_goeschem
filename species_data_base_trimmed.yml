@@ -1,3 +1,5 @@
+# The species here are based on original geoschem_species_database.yml file.
+# Modify the species as needed and place it alongside the specieis_trimming.py script.
 species:
   - AONITA
   - BZPAN
